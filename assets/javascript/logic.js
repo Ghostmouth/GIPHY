@@ -1,6 +1,8 @@
 var topics = ["Trumpet", "Trombone", "Bass", "Piano", "Guitar", "Synthesizer", "Saxaphone", "Drums", "Cowbell", "Clarinet"]
 
 
+
+
 // makes the buttons
 function buttonize() {
     $("#button-area").empty()
